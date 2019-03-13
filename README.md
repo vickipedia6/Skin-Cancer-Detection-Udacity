@@ -10,7 +10,7 @@ The data and objective are pulled from the 2017 ISIC Challenge on Skin Lesion An
 # Team Members 
 
 * Vignesh C
-* Shyam Sundar V (shyamStarwalt - Github Username)
+* Shyam Sundar V [shyamStarwalt](https://github.com/shyamStarwalt)
 
 # Getting Started
 Clone the repository and create a data/ folder to hold the dataset of skin images.
