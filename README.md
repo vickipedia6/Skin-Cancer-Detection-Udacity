@@ -9,6 +9,7 @@ The data and objective are pulled from the 2017 ISIC Challenge on Skin Lesion An
 
 # Team Members 
 
+* Vignesh C
 * Shyam Sundar V (shyamStarwalt - Github Username)
 
 # Getting Started
